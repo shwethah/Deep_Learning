@@ -1,2 +1,3 @@
 
-A DCGAN is a direct extension of the GAN described above, except that it explicitly uses convolutional and convolutional-transpose layers in the discriminator and generator, respectively. 
+A DCGAN is a direct extension of the GAN described above, except that it explicitly uses 
+convolutional and convolutional-transpose layers in the discriminator and generator, respectively. 
