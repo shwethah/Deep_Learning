@@ -1,1 +1,2 @@
-Variational Autoencoders, or VAEs, are an extension of AEs that additionally force the network to ensure that samples are normally distributed over the space represented by the bottleneck.
+Variational Autoencoders, or VAEs, are an extension of AEs that additionally force 
+the network to ensure that samples are normally distributed over the space represented by the bottleneck.
